@@ -38,6 +38,7 @@ Every killing at the hands of local police declared a homicide since 2000. Each 
 | `race`         | string  | The race of the person who died.                  |
 | `gender`       | string  | The gender of the person who died.                |
 | `cause`        | string  | The cause of the person's death.                  |
+| `address`      | string  | The address of the person's death.                |
 | `neighborhood` | string  | The neighborhood where the person died.           |
 | `x`            | float   | The longitude coordinate where the person died.   |
 | `y`            | float   | The latitude coordinate where the person died.    |
