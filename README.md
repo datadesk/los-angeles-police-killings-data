@@ -6,11 +6,13 @@ The Los Angeles Times' database of people killed by local police in Los Angeles 
 
 Since 2000, there have been nearly 900 killings by local police that were ruled a homicide by county medical examiners. The Times' [Homicide Report](https://homicide.latimes.com/) compiled the deaths by reviewing publicly-available records from the Los Angeles County Medical Examiner-Coroner's office and verifying information with law enforcement.
 
+The data are published by The Times's in its [police killings database](https://www.latimes.com/projects/los-angeles-police-killings-database/).
+
 The records include each death that has been ruled a homicide by medical examiners, which is the death of a person at the hands of another. Our records do not include deaths that have not been ruled a homicide, such as on-duty vehicular deaths, jail suicides and other in-custody deaths. Some counts, such as those from the local Black Lives Matter chapter, have included such incidents.
 
 ## Reusing the data
 
-The Los Angeles Times is making coronavirus infections data available for use by researchers and scientists to aid in the fight against COVID-19.
+The Los Angeles Times is making police killings data from The Homicide Report available to aid public understanding of the issue.
 
 The company's Terms of Service apply. By using the data, you accept and agree to follow the [Terms of Services](https://www.latimes.com/terms-of-service).
 
