@@ -1,4 +1,4 @@
-# california-coronavirus-data
+# los-angeles-police-killings-data
 
 The Los Angeles Times' database of people killed by local police in Los Angeles County.
 
