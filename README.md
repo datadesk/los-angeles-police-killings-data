@@ -29,18 +29,19 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 Every killing at the hands of local police declared a homicide since 2000. Each row describes a person who died.
 
 
-| field          | type    | description                                       |
-| :--------------| :------ | :------------------------------------------------ |
-| `slug`         | string  | A unique string identifier for the record.        |
-| `death_date`   | date    | The date the person died.                         |
-| `first_name`   | string  | The person's first name.                          |
-| `middle_name`  | string  | The person's middle name.                         |
-| `last_name`    | string  | The person's last name.                           |
-| `age`          | integer | The age of the person when they died.             |
-| `race`         | string  | The race of the person who died.                  |
-| `gender`       | string  | The gender of the person who died.                |
-| `cause`        | string  | The cause of the person's death.                  |
-| `address`      | string  | The address of the person's death.                |
-| `neighborhood` | string  | The neighborhood where the person died.           |
-| `x`            | float   | The longitude coordinate where the person died.   |
-| `y`            | float   | The latitude coordinate where the person died.    |
+| field                 | type    | description                                       |
+| :---------------------| :------ | :------------------------------------------------ |
+| `coroners_case_number`| string  | A unique string identifier from the Coroner.      |
+| `slug`                | string  | A unique string identifier for the record.        |
+| `death_date`          | date    | The date the person died.                         |
+| `first_name`          | string  | The person's first name.                          |
+| `middle_name`         | string  | The person's middle name.                         |
+| `last_name`           | string  | The person's last name.                           |
+| `age`                 | integer | The age of the person when they died.             |
+| `race`                | string  | The race of the person who died.                  |
+| `gender`              | string  | The gender of the person who died.                |
+| `cause`               | string  | The cause of the person's death.                  |
+| `address`             | string  | The address of the person's death.                |
+| `neighborhood`        | string  | The neighborhood where the person died.           |
+| `x`                   | float   | The longitude coordinate where the person died.   |
+| `y`                   | float   | The latitude coordinate where the person died.    |
