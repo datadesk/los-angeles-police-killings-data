@@ -28,7 +28,7 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 
 ## Data dictionary
 
-### [los-angeles-police-killings.csv](./los-angeles-police-killings.csv)
+### [los-angeles-police-killings.csv](https://github.com/datadesk/los-angeles-police-killings-data/blob/master/los-angeles-police-killings.csv)
 
 Every killing at the hands of local police declared a homicide since 2000. Each row describes a person who died.
 
@@ -51,7 +51,7 @@ Every killing at the hands of local police declared a homicide since 2000. Each 
 | `y`                   | float   | The latitude coordinate where the person died.    |
 
 
-### [los-angeles-prosecutor-decisions.csv](./los-angeles-prosecuter-decisions.csv)
+### [los-angeles-prosecutor-decisions.csv](https://github.com/datadesk/los-angeles-police-killings-data/blob/master/los-angeles-prosecutor-decisions.csv)
 
 Every available review of police killings from Justice System Integrity Division in the district attorney's office.
 
