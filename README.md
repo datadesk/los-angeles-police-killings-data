@@ -45,3 +45,21 @@ Every killing at the hands of local police declared a homicide since 2000. Each 
 | `neighborhood`        | string  | The neighborhood where the person died.           |
 | `x`                   | float   | The longitude coordinate where the person died.   |
 | `y`                   | float   | The latitude coordinate where the person died.    |
+
+
+### [los-angeles-prosecutor-decisions.csv](./los-angeles-prosecuter-decisions.csv)
+
+Every available review of police killings from Justice System Integrity Division in the district attorney's office.
+
+
+| field                 | type    | description                                       |
+| :---------------------| :------ | :------------------------------------------------ |
+| `coroners_case_number`| string  | A unique string identifier from the Coroner.      |
+| `death_date`          | date    | The date the person died.                         |
+| `jsid_file_number`    | string  | A unique string identifier for the record.        |
+| `decision`            | string  | The district attorney's decision.                 |
+| `file_url`            | string  | Documentcloud link where the review is availabe   |
+| `review_release_date` | date    | The date the JSID review was released             |
+| `review_length`       | string  | Length of review in pages.                        |
+| `weapon_involvement`  | string  | Weapon involvement during the incident.           |
+| `agencies`            | string  | List of unique agencies involved in the killing.  |
