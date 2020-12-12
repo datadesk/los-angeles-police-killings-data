@@ -62,7 +62,7 @@ Every available review of police killings from Justice System Integrity Division
 | `death_date`          | date    | The date the person died.                         |
 | `jsid_file_number`    | string  | A unique string identifier from the DA's office.  |
 | `decision`            | string  | The district attorney's decision.                 |
-| `file_url`            | string  | Documentcloud link where the review is availabe   |
+| `file_url`            | string  | Documentcloud link where the review is available. |
 | `review_release_date` | date    | The date the JSID review was released.            |
 | `review_length`       | string  | Length of review in pages.                        |
 | `weapon_involvement`  | string  | Weapon involvement during the incident.           |
