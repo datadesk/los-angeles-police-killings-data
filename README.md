@@ -4,11 +4,15 @@ The Los Angeles Times' database of people killed by local police in Los Angeles 
 
 ## About the data
 
-Since 2000, there have been nearly 900 killings by local police that were ruled a homicide by county medical examiners. The Times' [Homicide Report](https://homicide.latimes.com/) compiled the deaths by reviewing publicly-available records from the Los Angeles County Medical Examiner-Coroner's office and verifying information with law enforcement.
+Since 2000, there have been more than 900 killings by local police that were ruled a homicide by county medical examiners. The Times' [Homicide Report](https://homicide.latimes.com/) compiled the deaths by reviewing publicly-available records from the Los Angeles County Medical Examiner-Coroner's office and verifying information with law enforcement.
 
 The data are published by The Times's in its [police killings database](https://www.latimes.com/projects/los-angeles-police-killings-database/).
 
 The records include each death that has been ruled a homicide by medical examiners, which is the death of a person at the hands of another. Our records do not include deaths that have not been ruled a homicide, such as on-duty vehicular deaths, jail suicides and other in-custody deaths. Some counts, such as those from the local Black Lives Matter chapter, have included such incidents.
+
+The Los Angeles County District Attorney's office reviews each incident to determine whether charges are warranted. Reaching a decision can take years. If a killing is deemed criminal, the officer is prosecuted. If the incident is deemed lawful, the office issues a memo justifying the use of force.
+
+The Times has acquired more than 600 of these reviews dating to 2004 and has published them here, the most comprehensive database of investigations of Los Angeles County police killings ever made public. The latest decisions will be added as they are released.
 
 ## Reusing the data
 
@@ -54,12 +58,12 @@ Every available review of police killings from Justice System Integrity Division
 
 | field                 | type    | description                                       |
 | :---------------------| :------ | :------------------------------------------------ |
-| `coroners_case_number`| string  | A unique string identifier from the Coroner.      |
+| `coroners_case_number`| string  | A unique string identifier from the Coroner.      | 
 | `death_date`          | date    | The date the person died.                         |
-| `jsid_file_number`    | string  | A unique string identifier for the record.        |
+| `jsid_file_number`    | string  | A unique string identifier from the DA's office.  |
 | `decision`            | string  | The district attorney's decision.                 |
 | `file_url`            | string  | Documentcloud link where the review is availabe   |
-| `review_release_date` | date    | The date the JSID review was released             |
+| `review_release_date` | date    | The date the JSID review was released.            |
 | `review_length`       | string  | Length of review in pages.                        |
 | `weapon_involvement`  | string  | Weapon involvement during the incident.           |
 | `agencies`            | string  | List of unique agencies involved in the killing.  |
