@@ -23,7 +23,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2020-03941,mark-anthony-jones,2020-05-04,Mark,Anthony,Jones,36,latino,male,gunshot,E/B 60 Freeway W/O Paramount Boulevard,Montebello,-118.093080275627,34.0358832029056
 2020-03822,daniel-hernandez-bravo,2020-04-30,Daniel,,Hernandez Bravo,28,latino,male,gunshot,Wall & East 23rd streets,Historic South-Central,-118.26290548353799,34.025422395821096
 2020-03548,daniel-hernandez-2020-03548,2020-04-22,Daniel,,Hernandez,38,latino,male,gunshot,San Pedro & 32nd streets,Historic South-Central,-118.264279083537,34.0169478958219
-2020-03439,richard-sean-lugo,2020-04-19,Richard,Sean,Lugo,36,white,male,gunshot,1101 W. Avenue I,Lancaster,-118.150047583553,34.704691895760696
+2020-03439,richard-sean-lugo,2020-04-19,Richard,Sean,Lugo,36,white,male,gunshot,1101 W. Avenue I,Lancaster,-118.150047583553,34.704691895760604
 2020-02766,anthony-eduardo-pacheco,2020-03-30,Anthony,Eduardo,Pacheco,37,latino,male,gunshot,201 S. Reservoir St.,Pomona,-117.732941283611,34.0579052958182
 2020-02282,catherine-gomez,2020-03-15,Catherine,,Gomez,25,latino,female,gunshot,263 Molino Ave.,Long Beach,-118.160861183552,33.7666868958445
 2020-02125,pablo-elias,2020-03-10,Pablo,,Elias,44,latino,male,gunshot,7715 Eastern Ave.,Bell Gardens,-118.165888883551,33.9626929958267
@@ -32,11 +32,12 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2020-01579,luis-angel-ramirez,2020-02-20,Luis,Angel,Ramirez,22,latino,male,blunt-force,Atlantic Avenue & Market Street,Long Beach,-118.184884383549,33.8543222958366
 2020-01460,kerry-michael-bounsom,2020-02-16,Kerry,Michael,Bounsom,33,black,male,gunshot,East Rhea Street & Martin Luther King Jr. Avenue,,,
 2020-00335,victor-valencia,2020-01-11,Victor,,Valencia,31,latino,male,gunshot,3800 block of Sepulveda Boulevard,Culver City,-118.41702427795799,34.012545425517104
+2019-09492,jorge-serrano,2019-12-16,Jorge,,Serrano,25,latino,male,gunshot,3600 block of East Fourth Street,Boyle Heights,-118.193322768891,34.0326003871426
 2019-09067,dai-phuoc-nguyen,2019-12-02,Dai,Phuoc,Nguyen,38,asian,male,gunshot,9800 block of Cortada Street,El Monte,-118.055779083566,34.0650030958176
 2019-08891,nathaniel-robert-pinnock,2019-11-25,Nathaniel,Robert,Pinnock,22,black,male,gunshot,6700 block of Sunset Boulevard,Hollywood,-118.33685808352699,34.0976563958146
 2019-08729,jessica-ann-beedles,2019-11-20,Jessica,Ann,Beedles,42,white,female,gunshot,5965 Nora Lynn Drive,Woodland Hills,-118.664874983482,34.1800389958072
 2019-08705,alex-flores,2019-11-19,Alex,,Flores,34,latino,male,gunshot,South Central Avenue & East 28th Street,Historic South-Central,-118.25577948353902,34.0167477958219
-2019-08530,omar-enrique-garcia,2019-11-13,Omar,Enrique,Garcia,37,latino,male,gunshot,4200 block of Dozier Street,East Los Angeles,-118.17546508355,34.0412432958197
+2019-08530,omar-enrique-garcia,2019-11-13,Omar,Enrique,Garcia,37,latino,male,gunshot,4200 block of Dozier Street,East Los Angeles,-118.175465083549,34.0412432958197
 2019-08131,ricardo-russell-myers,2019-10-30,Ricardo,Russell,Myers,62,white,male,gunshot,3000 block of Kaylyn Street,Lancaster,-118.076203583564,34.6684755957639
 2019-07970,delfon-garnell-kinney-sr,2019-10-23,Delfon,Garnell,Kinney,48,black,male,gunshot,1739 E. Artesia Blvd.,Long Beach,-118.17112218355,33.8749179958347
 2019-07949,dominador-araquel-rabot,2019-10-22,Dominador,Araquel,Rabot,55,asian,male,gunshot,24000 block of South Wilmington Avenue,Carson,-118.25548638353901,33.8076686958407
@@ -85,8 +86,8 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2018-05589,carmelo-pizarro-jr,2018-07-19,Carmelo,,Pizarro,22,latino,male,gunshot,7100 block of Pico Vista Road,Pico Rivera,-118.089729683562,33.9691981958262
 2018-04957,rodney-lee-hunter-jr,2018-06-29,Rodney,Lee,Hunter,27,black,male,gunshot,4105 S. University Drive,Pomona,-117.82424013011699,34.0494926829835
 2018-04784,javier-desantiago,2018-06-22,Javier,,Desantiago,31,latino,male,gunshot,1 W. Manchester Blvd.,Inglewood,-118.35486948352501,33.9630936958267
-2018-04669,elizabeth-michele-tollison,2018-06-18,Elizabeth,Michele,Tollison,49,white,female,gunshot,6425 Tyrone Ave.,Van Nuys,-118.44466028351201,34.1871259958066
-2018-04595,guillermo-perez,2018-06-16,Guillermo,,Perez,32,latino,male,gunshot,6425 Tyrone Ave.,Van Nuys,-118.44466028351201,34.1871259958066
+2018-04669,elizabeth-michele-tollison,2018-06-18,Elizabeth,Michele,Tollison,49,white,female,gunshot,6425 Tyrone Ave.,Van Nuys,-118.44466028351299,34.1871259958066
+2018-04595,guillermo-perez,2018-06-16,Guillermo,,Perez,32,latino,male,gunshot,6425 Tyrone Ave.,Van Nuys,-118.44466028351299,34.1871259958066
 2018-04458,nicolas-moncada,2018-06-11,Nicolas,,Moncada,29,latino,male,gunshot,13800 block of Philadelphia Street,Whittier,-118.024104383571,33.9814830958251
 2018-04390,omar-magana,2018-06-09,Omar,,Magana,34,white,male,gunshot,1720 E. Cesar E. Chavez Ave.,Boyle Heights,-118.217245283544,34.0492578958189
 2018-04166,juan-carlos-perez-victor,2018-06-01,Juan,Carlos,Perez-Victor,19,latino,male,gunshot,20040 Hawthorne Blvd.,Torrance,-118.35155028352501,33.8498902958369
@@ -194,7 +195,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2016-02667,cesar-frias,2016-04-06,Cesar,,Frias,20,white,male,gunshot,14700 block of Lakeside Street,Sylmar,-118.452897583509,34.3076507957958
 2016-02492,angel-montion,2016-03-30,Angel,,Montion,33,latino,male,gunshot,6400 block of Northside Drive,East Los Angeles,-118.126994983556,34.0123819958226
 2016-02115,cristian-rene-medina,2016-03-16,Cristian,Rene,Medina,23,latino,male,gunshot,6400 block of South Holmes Avenue,Florence-Firestone,-118.241154983538,33.9811855958248
-2016-02044,gevork-alachadzhyan,2016-03-13,Gevork,,Alachadzhyan,45,white,male,gunshot,100 block of South Glendale Avenue,Glendale,-118.247158983541,34.1463249958102
+2016-02044,gevork-alachadzhyan,2016-03-13,Gevork,,Alachadzhyan,45,white,male,gunshot,100 block of South Glendale Avenue,Glendale,-118.247158983541,34.146324995810296
 2016-01985,martin-rene-hurtado,2016-03-10,Martin,Rene,Hurtado,21,latino,male,gunshot,East 68th Street & Long Beach Boulevard,Long Beach,-118.203711583543,33.8776811958341
 2016-01858,osvaldo-torres,2016-03-06,Osvaldo,,Torres,41,latino,male,gunshot,Tweedy Boulevard & Burtis Street,South Gate,-118.175523383547,33.940693795829
 2016-01559,francisco-garcia-2016-01559,2016-02-24,Francisco,,Garcia,26,latino,male,gunshot,Front of 10962 Alondra Blvd.,Norwalk,-118.100430683558,33.8870521958333
@@ -207,7 +208,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2016-00501,efrain-herrera-jr,2016-01-17,Efrain,,Herrera,24,latino,male,gunshot,8800 Norwich Ave.,North Hills,-118.459861983512,34.230148995803
 2016-00478,alfred-longoria,2016-01-16,Alfred,,Longoria,34,latino,male,gunshot,1800 Nichols Canyon Road,Hollywood Hills West,-118.35879328352199,34.1037636958144
 2016-00421,miguel-hernandez-2016-00421,2016-01-14,Miguel,Angel,Hernandez,39,latino,male,gunshot,Nathan Hill & Shangri-La drives,Santa Clarita,-118.459934783512,34.4195636957855
-2016-00307,alan-paul-bartley,2016-01-11,Alan,Paul,Bartley,56,white,male,gunshot,1700 block of San Fernando Road,San Fernando,-118.44910248351299,34.2899943957976
+2016-00307,alan-paul-bartley,2016-01-11,Alan,Paul,Bartley,56,white,male,gunshot,1700 block of San Fernando Road,San Fernando,-118.44910248351299,34.2899943957977
 2015-08966,tien-phuong-hua,2015-12-29,Tien,Phuong,Hua,33,asian,male,gunshot,3500 block of Strang Avenue,Rosemead,-118.05617818357,34.0728632958169
 2015-08730,leroy-browning,2015-12-20,Leroy,,Browning,30,black,male,gunshot,37900 block of 47th Street East,Palmdale,-118.04492388357201,34.5713855957722
 2015-08721,ruben-herrera,2015-12-19,Ruben,Jose,Herrera,26,latino,male,gunshot,1000 W. Carson St.,West Carson,-118.29198968353201,33.8306989958384
@@ -252,7 +253,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2015-01832,antonio-perez-2015-01832,2015-03-12,Antonio,,Perez,32,latino,male,gunshot,2400 block of Flower Street,Walnut Park,-118.230178883546,33.9713365958262
 2015-01808,aaron-valdez,2015-03-11,Aaron,,Valdez,25,latino,male,gunshot,3000 block of Seminole Avenue,South Gate,-118.21958758354499,33.9393589958288
 2015-01633,sergio-alexander-navas,2015-03-05,Sergio,Alexander,Navas,36,latino,male,gunshot,4100 block of West National Avenue,Burbank,-118.34397488352501,34.1508709958101
-2015-01538,charly-leundeu-keunang,2015-03-01,Charly,Leundeu,Keunang,43,black,male,gunshot,545 S. San Pedro St. ,Downtown,-118.245110983542,34.0433269958193
+2015-01538,charly-leundeu-keunang,2015-03-01,Charly,Leundeu,Keunang,43,black,male,gunshot,545 S. San Pedro St.,Downtown,-118.245110983542,34.0433269958192
 2015-00478,pablo-meza,2015-01-17,Pablo,,Meza,24,latino,male,gunshot,Mateo & Jesse streeets,Downtown,-118.232443283538,34.036211995820196
 2015-00263,brian-alexis-barbosa,2015-01-11,Brian,Alexis,Barbosa,23,latino,male,gunshot,8900 block of Kauffman Avenue,South Gate,-118.188943783544,33.9525075958275
 2014-08907,mayra-cornejo,2014-12-31,Mayra,Salome,Cornejo,34,latino,female,gunshot,100 block of West Compton Boulevard,Compton,-118.22436658353998,33.895942895832704
@@ -280,7 +281,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2014-05339,omar-figueroa-abrego,2014-08-03,Omar,Figueroa,Abrego,37,latino,male,other,,,,
 2014-05322,cedric-oscar-ramirez,2014-08-02,Cedric,Oscar,Ramirez,24,latino,male,gunshot,9015 Rosehedge Drive,Pico Rivera,-118.086967983565,33.9933849958243
 2014-05311,frank-al-mendoza,2014-08-01,Frank,Al,Mendoza,54,latino,male,gunshot,9015 Rosehedge Drive,Pico Rivera,-118.086967983565,33.9933849958243
-2014-05132,luis-ramirez-2014-05132,2014-07-25,Luis,Alberto,Ramirez,38,latino,male,gunshot,In front of 6719 Hayvenhurst Ave. ,Encino,-118.492382483509,34.166918995808395
+2014-05132,luis-ramirez-2014-05132,2014-07-25,Luis,Alberto,Ramirez,38,latino,male,gunshot,In front of 6719 Hayvenhurst Ave.,Encino,-118.492382483509,34.166918995808395
 2014-04436,paul-ray-kemp-jr,2014-06-27,Paul,Ray,Kemp,40,black,male,gunshot,3845 W. 113th St.,Inglewood,-118.340948983527,33.9322099958297
 2014-04408,samuel-johnson,2014-06-25,Samuel,Lee,Johnson,45,black,male,gunshot,Santa Rosalia Drive & Stocker Street,View Park-Windsor Hills,-118.337338583523,34.0071385958231
 2014-04374,antoine-d-hunter,2014-06-24,Antoine,D.,Hunter,24,black,male,gunshot,East Palmer Street & North Poinsettia Avenue,Compton,-118.209520883544,33.8983491958327
@@ -351,13 +352,13 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2013-03127,jesse-donato-delgadillo,2013-04-28,Jesse,Donato,Delgadillo,21,latino,male,gunshot,Rear of 299 E. Artesia Blvd.,Long Beach,-118.197038883545,33.8744582967079
 2013-03100,brice-quintin-jefferson,2013-04-26,Brice,Quintin,Jefferson,24,black,male,gunshot,11413 S. Vermont Ave.,Athens,-118.291954483533,33.9305607967037
 2013-03071,felipe-corrales,2013-04-25,Felipe ,,Corrales,45,latino,male,gunshot,901 Truman St.,San Fernando,-118.43939298351201,34.2823489966768
-2013-02659,edgar-villareal,2013-04-09,Edgar ,,Villareal,25,latino,male,gunshot,Across from 4049 Agnes Ave.,Lynwood,-118.198010983545,33.9164099967046
+2013-02659,edgar-villareal,2013-04-09,Edgar,,Villareal,25,latino,male,gunshot,Across from 4049 Agnes Ave.,Lynwood,-118.198010983545,33.9164099967046
 2013-02051,sonia-angelita-castaneda-montoya,2013-03-16,Sonia,Angelita,Castaneda-Montoya,28,latino,female,gunshot,915 W. Holt Ave.,Pomona,-117.765216983602,34.0625828966939
 2013-01822,henry-edgar-saucedo,2013-03-08,Henry,Edgar,Saucedo,33,latino,male,gunshot,11515 S. Grape St.,Watts,-118.23632798353901,33.930016596703894
 2013-01508,moises-de-la-torre,2013-02-24,Moises ,,De La Torre,25,latino,male,gunshot,Vineland Avenue & Archwood Street,North Hollywood,-118.37030308352101,34.1921327966839
 2013-01414,christopher-allen-taylor,2013-02-21,Christopher,Allen,Taylor,19,black,male,gunshot,6422 Keynote St.,Long Beach,-118.106909983561,33.822752996712104
 2013-01264,emmanuel-joseph-franco,2013-02-15,Emmanuel,Joseph,Franco,25,latino,male,gunshot,South Atlantic Boulevard & Harding Avenue,Monterey Park,-118.134720583555,34.056443096693805
-2013-00295,jesse-max-rubalcava,2013-01-10,Jesse,Max,Rubalcava,16,latino,male,gunshot,6130 Holbrook St.,West Whittier-Los Nietos,-118.071547683563,33.9921416958237
+2013-00295,jesse-max-rubalcava,2013-01-10,Jesse,Max,Rubalcava,16,latino,male,gunshot,6130 Holbrook St.,West Whittier-Los Nietos,-118.071547683563,33.992141695823605
 2012-08499,joshua-shoop,2012-12-23,Joshua,Micah,Shoop,35,white,male,gunshot,7732 Norwalk Blvd.,West Whittier-Los Nietos,-118.074689983564,33.9750759967004
 2012-08204,edward-clark,2012-12-12,Edward,Eugene,Clark,28,black,male,gunshot,4771 Don Ricardo Drive,Baldwin Hills/Crenshaw,-118.354997183522,34.0120648966975
 2012-08059,carlos-carrillo,2012-12-06,Carlos,,Carrillo ,26,latino,male,gunshot,1853 Whitely Ave.,Hollywood,-118.333510483529,34.1046922966905
@@ -473,6 +474,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2010-05886,manuel-jaminez,2010-09-05,Manuel,,Ramirez,37,latino,male,gunshot,West 6th Street & South Union Avenue,Westlake,-118.269102683539,34.056980096694105
 2010-05711,leonel-mateos,2010-08-28,Leonel,,Mateos,20,latino,male,gunshot,Washington Boulevard & Arlington Avenue,Arlington Heights,-118.317721583531,34.0399031966955
 2010-05486,joseph-jenkins,2010-08-17,Joseph,Christian,Jenkins,36,white,male,gunshot,10466 Artesia Blvd.,Bellflower,-118.11043898356002,33.8725029967084
+2010-04857,alberto-romero-arriaga,2010-07-23,Alberto,Romero,Arriaga,45,latino,male,blunt-force,Intersection of Yucca Street & Cahuenga Boulevard,Hollywood,-118.32968498353,34.1039394966905
 2010-04802,pedro-santa-cruz,2010-07-21,Pedro,Gonzalez,Santa Cruz,40,white,male,gunshot,E Street & McDonald Avenue,Wilmington,-118.271210983535,33.7751363967162
 2010-04686,luciano-reyes,2010-07-16,Luciano,,Reyes,35,latino,male,gunshot,Rear of 11963 Phillippi Ave.,Pacoima,-118.417534983519,34.2876709966761
 2010-04549,javier-joseph-rueda,2010-07-10,Javier,Joseph,Rueda,28,latino,male,gunshot,10900 block of Penrose Street,Sun Valley,-118.369485583527,34.2305664966806
