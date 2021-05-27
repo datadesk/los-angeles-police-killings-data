@@ -1,4 +1,7 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2021-05641,alfredo-aceves,2021-04-29,Alfredo,,Aceves,64,latino,male,gunshot,39462 167th St. East,Lake Los Angeles,-117.832585183598,34.59858979577
+2021-05476,richard-b-solitro,2021-04-24,Richard,B.,Solitro,34,white,male,gunshot,Sunset Boulevard & Fairfax Avenue,Hollywood Hills West,-118.361564083524,34.0980642958146
+2021-05012,guillermo-amezcua,2021-04-10,Guillermo,,Amezcua,48,latino,male,gunshot,402 Harps St.,San Fernando,-118.43888838351299,34.2886049957975
 2021-04696,lauren-nicole-archibeque,2021-04-02,Lauren,Nicole,Archibeque,38,white,female,gunshot,2851 Golden Ave.,Long Beach,-118.20265528354601,33.809076295840605
 2021-04533,matthew-paul-blaylock,2021-03-29,Matthew,Paul,Blaylock,38,black,male,gunshot,West 8th & South Bixel streets,Westlake,-118.264983583537,34.04958039581889
 2021-04116,jorge-armando-cerda,2021-03-16,Jorge,Armando,Cerda,36,latino,male,gunshot,1017 W. 21st St.,University Park,-118.281263983535,34.036264995820105
