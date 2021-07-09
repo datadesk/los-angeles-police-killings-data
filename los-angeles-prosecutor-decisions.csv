@@ -51,7 +51,7 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2020-00335,2020-01-11,,unresolved,,,,pending,
 2019-09492,2019-12-16,,unresolved,,,,pending,
 2019-09067,2019-12-02,19-0496,no,https://beta.documentcloud.org/documents/20425182-dai-phuoc-nguyen,2020-11-23,,Weapon involved,El Monte
-2019-08891,2019-11-25,,unresolved,,,,pending,
+2019-08891,2019-11-25,19-0488,no,https://www.documentcloud.org/documents/20985383-nathaniel-pinnock,2021-05-07,,Weapon involved,LAPD
 2019-08729,2019-11-20,,unresolved,,,,pending,
 2019-08705,2019-11-19,,unresolved,,,,pending,
 2019-08530,2019-11-13,,unresolved,,,,pending,
@@ -95,7 +95,7 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2018-07271,2018-09-19,18-0391,no,https://beta.documentcloud.org/documents/6961382-Rene-Herrera.html,2019-12-11,9,Weapon involved,LASD
 2018-06734,2018-08-30,18-0375,no,https://beta.documentcloud.org/documents/6961381-Vanessa-Marquez.html,2020-02-25,19,Weapon involved,South Pasadena
 2018-06541,2018-08-23,18-0326,no,https://beta.documentcloud.org/documents/6961380-Richard-Mendoza.html,2020-01-29,6,Weapon involved,LAPD
-2018-06409,2018-08-18,,unresolved,,,,pending,
+2018-06409,2018-08-18,18-0351,no,https://www.documentcloud.org/documents/20985382-michael-harrison,2021-05-14,,Weapon involved,Culver City
 2018-06226,2018-08-12,18-0340,no,https://beta.documentcloud.org/documents/6961379-Anthony-Vargas.html,2020-02-26,15,Weapon involved,LASD
 2018-06103,2018-08-07,18-0337,no,https://beta.documentcloud.org/documents/6961378-Daniel-Valdez.html,2019-12-06,19,Weapon involved,"FBI,LAPD"
 2018-05786,2018-07-26,18-0323,no,https://beta.documentcloud.org/documents/7205658-Sergio-Acosta.html,2020-08-24,10,Weapon involved,Redondo Beach
