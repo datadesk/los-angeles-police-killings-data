@@ -1,4 +1,7 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2021-11425,carlos-alexander-arias,2021-10-13,Carlos,Alexander,Arias,36,white,male,gunshot,3676 Keystone Ave.,Palms,-118.407775583518,34.0220760958214
+2021-11330,isaiah-raider-guevara,2021-10-10,Isaiah,Raider,Guevara,18,latino,male,gunshot,10032 Obregon St.,West Whittier-Los Nietos,-118.068714283565,33.999566095823496
+2021-11139,jesse-medrano,2021-10-05,Jesse,,Medrano,35,latino,male,gunshot,W/B 105 Freeway & 710 Freeway interchange,Paramount,-118.17291582773599,33.9115290316046
 2021-11090,christopher-lee-mosco,2021-10-03,Christopher,Lee,Mosco,32,white,male,gunshot,24915 Chicory Court,Unincorporated Santa Susana Mountains,-118.570283283495,34.3724046957901
 2021-10903,leonel-chavez,2021-09-28,Leonel,,Chavez,24,latino,male,gunshot,Medford & North Indiana streets,Boyle Heights,-118.192645883547,34.0617584958178
 2021-10732,barry-john-ross,2021-09-23,Barry,John,Ross,34,white,male,gunshot,Sierra Hwy & West Avenue B,Northeast Antelope Valley,-118.153778383553,34.8062423957518
@@ -536,7 +539,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2009-06507,noe-escobar-reyes,2009-09-22,Noe,Rene,Escobar Reyes,41,latino,male,gunshot,1993 S. Towne Ave.,Pomona,-117.74122299999901,34.0354069999996
 2009-06459,leopoldo-huizar,2009-09-20,Leopoldo,,Huizar,24,latino,male,gunshot,11650 E. Imperial Highway,Norwalk,-118.084559999999,33.9165989999994
 2009-06455,felipe-valdovinos,2009-09-20,Felipe,,Valdovinos,27,latino,male,gunshot,Southbound Long Beach Freeway & Alondra Boulevard,Compton,-118.190467341187,33.8885684353998
-2009-06449,travion-richard,2009-09-19,Travion,,Richard,17,black,male,gunshot,3147 Banning St.,Lynwood,-118.21611399999901,33.919285999999396
+2009-06449,travion-richard,2009-09-19,Travion,,Richard,17,black,male,gunshot,3147 Banning St.,Lynwood,-118.216113999998,33.919285999999396
 2009-06366,darrick-collins,2009-09-14,Darrick,Maurice,Collins,36,black,male,gunshot,1234  Poindexter Ave.,Athens,-118.297123999999,33.9252189999995
 2009-06160,robert-brown,2009-09-06,Robert,,Brown,84,black,male,gunshot,10803 S. Avalon Blvd.,Green Meadows,-118.265554999998,33.9376609999994
 2009-06102,wilson-victorian,2009-09-04,Wilson,James,Victorian,59,black,male,gunshot,265 Dominguez St.,Carson,-118.274686999999,33.839527999999596
