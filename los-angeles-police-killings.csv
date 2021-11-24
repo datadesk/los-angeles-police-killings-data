@@ -1,4 +1,6 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2021-12097,samuel-soto,2021-11-02,Samuel,,Soto,44,latino,male,gunshot,West Pico Boulevard & South Union Avenue,Pico-Union,-118.276910583536,34.0446481958194
+2021-12049,melkon-michaelidis,2021-10-31,Melkon,,Michaelidis,46,white,male,gunshot,13802 Victory Blvd.,Valley Glen,-118.433537883514,34.1863387958067
 2021-11425,carlos-alexander-arias,2021-10-13,Carlos,Alexander,Arias,36,white,male,gunshot,3676 Keystone Ave.,Palms,-118.407775583518,34.0220760958214
 2021-11330,isaiah-raider-guevara,2021-10-10,Isaiah,Raider,Guevara,18,latino,male,gunshot,10032 Obregon St.,West Whittier-Los Nietos,-118.068714283565,33.999566095823496
 2021-11139,jesse-medrano,2021-10-05,Jesse,,Medrano,35,latino,male,gunshot,W/B 105 Freeway & 710 Freeway interchange,Paramount,-118.17291582773599,33.9115290316046
@@ -84,7 +86,6 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2019-06281,carlos-torres,2019-08-19,Carlos,,Torres,39,latino,male,gunshot,Branford Street & Arleta Avenue,Arleta,-118.419796883516,34.2361265958022
 2019-06265,roberto-rene-gabriel,2019-08-19,Roberto,Rene,Gabriel,33,latino,male,gunshot,Belleglade & Alhambra avenues,El Sereno,-118.17453188354999,34.0718243958169
 2019-05778,jamaal-michael-simpson,2019-08-01,Jamaal,Michael,Simpson,21,black,male,gunshot,7100 block of Brynhurst Avenue,Hyde Park,-118.33381748352801,33.9756460958256
-2019-04997,rickie-cornell-starks,2019-07-03,Rickie,Cornell,Starks,65,black,male,gunshot,Spruce Street & Aranbe Avenue,Compton,-118.23226118354201,33.9026357958322
 2019-04846,paul-david-rea,2019-06-27,Paul,David,Rea,18,latino,male,gunshot,300 block South Gerhart Avenue,East Los Angeles,-118.144171544411,34.0302872279484
 2019-04311,ryan-twyman,2019-06-06,Ryan,,Twyman,24,black,male,gunshot,San Pedro & East 132nd streets,Willowbrook,-118.269835458909,33.912934768281396
 2019-04308,jose-salvador-meza,2019-06-06,Jose,Salvador,Meza,35,latino,male,gunshot,2000 block of Brighton Street,San Gabriel,-118.098147083561,34.072521295816806
