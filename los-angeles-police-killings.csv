@@ -1,4 +1,5 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2021-13144,john-anthony-holenbeck,2021-12-01,John,Anthony,Holenbeck,28,latino,male,gunshot,11661 Willowbrook Ave.,Willowbrook,-118.23715588354099,33.9276313958299
 2021-12956,jesus-flores-2021-12956,2021-11-23,Jesus,,Flores,25,latino,male,gunshot,229 S. Azusa Ave.,Azusa,-117.908615883587,34.118849395812695
 2021-12874,devin-edward-hall,2021-11-23,Devin,Edward,Hall,24,black,male,gunshot,512 N. Sunnyslope Ave.,,,
 2021-12459,wendy-carolina-flores-de-roque,2021-11-12,Wendy,Carolina,Flores De Roque,40,latino,female,gunshot,6567 Whittier Blvd.,East Los Angeles,-118.131124183556,34.015153495822
@@ -37,6 +38,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2021-00110,david-alvarado-jr,2021-01-02,David,,Alvarado,38,latino,male,gunshot,1840 S. San Gabriel Blvd.,San Gabriel,-118.09034378356199,34.075802095816606
 2020-11971,moises-arreola,2020-12-19,Moises,,Arreola,32,latino,male,gunshot,4416 W. 104th St.,Lennox,-118.35347708352501,33.9415591958287
 2020-11381,christian-sotelo-juarez,2020-12-07,Christian,,Sotelo Juarez,28,latino,male,gunshot,1920 Batson Ave.,Rowland Heights,-117.902256983588,33.9839030958248
+2020-10636,sam-conner,2020-11-15,Sam,,Conner,56,black,male,gunshot,Van Ness Avenue & Van Wick Street,Inglewood,-118.31778008353001,33.9350461958292
 2020-10465,saul-robert-salgado,2020-11-09,Saul,Robert,Salgado,18,latino,male,gunshot,Norwalk Boulevard & Telegraph Road,Santa Fe Springs,-118.07278138356399,33.9418473958286
 2020-10202,nicholas-armando-burgos-jr,2020-11-01,Nicholas,Armando,Burgos,38,latino,male,gunshot,1000 W. Carson St.,West Carson,-118.29473638353399,33.8298403958388
 2020-09706,fred-williams,2020-10-16,Fred,,Williams,25,black,male,gunshot,2200 block of East 121st Street,Willowbrook,-118.23390848354201,33.9220093958304
