@@ -1,5 +1,25 @@
 coroners_case_number,death_date,jsid_file_number,decision,file_url,review_release_date,review_length,weapon_involvement,agencies
+2021-13144,2021-12-01,,unresolved,,,,pending,
+2021-12874,2021-11-23,,unresolved,,,,pending,
+2021-12956,2021-11-23,,unresolved,,,,pending,
+2021-12459,2021-11-12,,unresolved,,,,pending,
+2021-12097,2021-11-02,,unresolved,,,,pending,
+2021-12049,2021-10-31,,unresolved,,,,pending,
+2021-11425,2021-10-13,,unresolved,,,,pending,
+2021-11330,2021-10-10,,unresolved,,,,pending,
+2021-11139,2021-10-05,,unresolved,,,,pending,
+2021-11090,2021-10-03,,unresolved,,,,pending,
+2021-10903,2021-09-28,,unresolved,,,,pending,
+2021-10732,2021-09-23,,unresolved,,,,pending,
+2021-10689,2021-09-22,,unresolved,,,,pending,
+2021-10601,2021-09-20,,unresolved,,,,pending,
+2021-09236,2021-08-11,,unresolved,,,,pending,
+2021-08955,2021-08-04,,unresolved,,,,pending,
+2021-08612,2021-07-26,,unresolved,,,,pending,
+2021-08247,2021-07-15,,unresolved,,,,pending,
+2021-07604,2021-06-28,,unresolved,,,,pending,
 2021-07552,2021-06-27,,unresolved,,,,pending,
+2021-07404,2021-06-23,,unresolved,,,,pending,
 2021-06738,2021-06-04,,unresolved,,,,pending,
 2021-06211,2021-05-17,,unresolved,,,,pending,
 2021-05641,2021-04-29,,unresolved,,,,pending,
@@ -16,8 +36,9 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2021-02113,2021-01-27,,unresolved,,,,pending,
 2021-00717,2021-01-10,,unresolved,,,,pending,
 2021-00110,2021-01-02,,unresolved,,,,pending,
-2020-11971,2020-12-19,,unresolved,,,,pending,
-2020-11381,2020-12-07,,unresolved,,,,pending,
+2020-11971,2020-12-19,20-0458,no,https://www.documentcloud.org/documents/21090755-moises-arreola,2021-09-30,,Weapon involved,LASD
+2020-11381,2020-12-07,20-0440,no,https://www.documentcloud.org/documents/21090756-christian-sotelo,2021-09-21,,Weapon involved,LASD
+2020-10636,2020-11-15,20-0426,no,https://www.documentcloud.org/documents/21165810-sam-conner,2021-11-08,,Weapon involved,LASD
 2020-10465,2020-11-09,,unresolved,,,,pending,
 2020-10202,2020-11-01,,unresolved,,,,pending,
 2020-10202,2020-11-01,,unresolved,,,,pending,
@@ -33,28 +54,28 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2020-05405,2020-06-18,,unresolved,,,,pending,
 2020-05233,2020-06-13,,unresolved,,,,pending,
 2020-05149,2020-06-11,,unresolved,,,,pending,
-2020-04998,2020-06-07,,unresolved,,,,pending,
+2020-04998,2020-06-07,20-0194,no,https://www.documentcloud.org/documents/21115921-jarrid-hurst,2021-10-18,,Weapon involved,LASD
 2020-04769,2020-05-29,,unresolved,,,,pending,
 2020-04680,2020-05-27,,unresolved,,,,pending,
 2020-04660,2020-05-26,20-0178,no,https://beta.documentcloud.org/documents/21010999-robert-avita,2021-06-24,,Weapon involved,LASD
 2020-04262,2020-05-14,,unresolved,,,,pending,
 2020-04070,2020-05-08,,unresolved,,,,pending,
 2020-03941,2020-05-04,,unresolved,,,,pending,
-2020-03822,2020-04-30,,unresolved,,,,pending,
+2020-03822,2020-04-30,20-0144,no,https://www.documentcloud.org/documents/21115920-daniel-bravo,2021-10-28,,Weapon involved,LAPD
 2020-03548,2020-04-22,,unresolved,,,,pending,
-2020-03439,2020-04-19,,unresolved,,,,pending,
+2020-03439,2020-04-19,2020-0125,no,https://www.documentcloud.org/documents/21165809-richard-lugo,2021-11-08,,No weapon involved,LASD
 2020-02766,2020-03-30,,unresolved,,,,pending,
 2020-02282,2020-03-15,,unresolved,,,,pending,
 2020-02125,2020-03-10,,unresolved,,,,pending,
 2020-02071,2020-03-08,,unresolved,,,,pending,
 2020-01868,2020-03-01,,unresolved,,,,pending,
 2020-01579,2020-02-20,20-0056,no,https://beta.documentcloud.org/documents/20508191-luis-ramirez,2021-01-25,,Weapon involved,Long Beach
-2020-01460,2020-02-16,,unresolved,,,,pending,
-2020-00335,2020-01-11,,unresolved,,,,pending,
+2020-01460,2020-02-16,20-0051,no,https://www.documentcloud.org/documents/21038847-kerry-bounsom,2021-07-15,,Weapon involved,Long Beach
+2020-00335,2020-01-11,20-0007,no,https://www.documentcloud.org/documents/21115918-victor-valencia,2021-10-28,,No weapon involved,LAPD
 2019-09492,2019-12-16,,unresolved,,,,pending,
 2019-09067,2019-12-02,19-0496,no,https://beta.documentcloud.org/documents/20425182-dai-phuoc-nguyen,2020-11-23,,Weapon involved,El Monte
 2019-08891,2019-11-25,19-0488,no,https://www.documentcloud.org/documents/20985383-nathaniel-pinnock,2021-05-07,,Weapon involved,LAPD
-2019-08729,2019-11-20,,unresolved,,,,pending,
+2019-08729,2019-11-20,19-0476,no,https://www.documentcloud.org/documents/21115922-jessica-beedles,2021-10-14,,Weapon involved,DEA
 2019-08705,2019-11-19,,unresolved,,,,pending,
 2019-08530,2019-11-13,,unresolved,,,,pending,
 2019-08131,2019-10-30,19-0453,no,https://beta.documentcloud.org/documents/20412717-ricardo-myers,2020-10-09,,Weapon involved,LASD
@@ -71,11 +92,10 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2019-06281,2019-08-19,,unresolved,,,,pending,
 2019-06265,2019-08-19,,unresolved,,,,pending,
 2019-05778,2019-08-01,,unresolved,,,,pending,
-2019-04997,2019-07-03,,unresolved,,,,pending,
 2019-04846,2019-06-27,19-0288,no,https://beta.documentcloud.org/documents/6962056-Paul-Rea.html,2020-05-12,9,Weapon involved,LASD
-2019-04308,2019-06-06,,unresolved,,,,pending,
 2019-04304,2019-06-06,,unresolved,,,,pending,
 2019-04311,2019-06-06,,unresolved,,,,pending,
+2019-04308,2019-06-06,,unresolved,,,,pending,
 2019-03856,2019-05-21,,unresolved,,,,pending,
 2019-03786,2019-05-17,,unresolved,,,,pending,
 2019-03664,2019-05-13,,unresolved,,,,pending,
@@ -83,8 +103,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2019-03107,2019-04-22,19-0162,no,https://www.documentcloud.org/documents/20791597-david-flores,2021-04-28,,Weapon involved,LAPD
 2019-02920,2019-04-14,,unresolved,,,,pending,
 2019-02451,2019-03-27,,unresolved,,,,pending,
-2019-02160,2019-03-17,,unresolved,,,,pending,
-2019-01260,2019-02-14,,unresolved,,,,pending,
+2019-02160,2019-03-17,19-0125,no,https://www.documentcloud.org/documents/21090754-timothy-john-beckwith,2021-09-30,,No weapon involved,LASD
+2019-01260,2019-02-14,19-0085,no,https://www.documentcloud.org/documents/21069614-wilfredo-hernandez,2021-08-11,,Weapon involved,LAPD
 2019-00338,2019-01-12,19-0016,no,https://beta.documentcloud.org/documents/6961369-Dimas-Diaz-Jr.html,2019-10-22,9,Weapon involved,"CHP,Ventura County Sheriff"
 2018-09875,2018-12-31,,unresolved,,,,pending,
 2018-09660,2018-12-21,,unresolved,,,,pending,
@@ -103,13 +123,13 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2018-05786,2018-07-26,18-0323,no,https://beta.documentcloud.org/documents/7205658-Sergio-Acosta.html,2020-08-24,10,Weapon involved,Redondo Beach
 2018-05658,2018-07-21,18-0313,no,https://beta.documentcloud.org/documents/20425528-melyda-corado,2020-11-30,,No weapon involved,LAPD
 2018-05589,2018-07-19,,unresolved,,,,pending,
-2018-04957,2018-06-29,,unresolved,,,,pending,
+2018-04957,2018-06-29,18-0279,no,https://www.documentcloud.org/documents/21038846-rodney-hunter,2021-07-15,,No weapon involved,"Pomona,CSU"
 2018-04784,2018-06-22,18-0292,no,https://beta.documentcloud.org/documents/20425184-javier-de-santiago,2020-11-20,,Weapon involved,Inglewood
 2018-04669,2018-06-18,,unresolved,,,,pending,
 2018-04595,2018-06-16,,unresolved,,,,pending,
 2018-04458,2018-06-11,18-0242,no,https://beta.documentcloud.org/documents/6961377-Nicolas-Moncada.html,2019-01-29,11,Weapon involved,Whittier
 2018-04390,2018-06-09,18-0236,no,https://beta.documentcloud.org/documents/6961376-Omar-Magana.html,2019-11-12,12,No weapon involved,LAPD
-2018-04166,2018-06-01,,unresolved,,,,pending,
+2018-04166,2018-06-01,18-0229,no,https://www.documentcloud.org/documents/21069646-jsid-ois-08-11-2021-perez-victor,2021-08-11,,Weapon involved,Torrance
 2018-04110,2018-05-30,18-0224,no,https://beta.documentcloud.org/documents/20425179-bryan-rodriguez,2020-11-16,,Weapon involved,LAPD
 2018-03520,2018-05-06,18-0176,no,https://beta.documentcloud.org/documents/7014127-Jose-Chavez.html,2019-06-18,7,No weapon involved,LAPD
 2018-02880,2018-04-11,18-0135,no,https://beta.documentcloud.org/documents/6961391-18-0135.html,2019-05-28,21,Weapon involved,Gardena
@@ -124,8 +144,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2018-01125,2018-02-04,,unresolved,,,,pending,
 2018-00479,2018-01-14,18-0032,no,https://beta.documentcloud.org/documents/7013067-Christian-Escobedo.html,2019-04-08,6,Weapon involved,LAPD
 2018-00366,2018-01-10,,unresolved,,,,pending,
-2018-00289,2018-01-08,18-0018,no,https://beta.documentcloud.org/documents/7014162-Primitivo-Macias.html,2020-02-26,12,Weapon involved,LAPD
 2018-00249,2018-01-08,,unresolved,,,,pending,
+2018-00289,2018-01-08,18-0018,no,https://beta.documentcloud.org/documents/7014162-Primitivo-Macias.html,2020-02-26,12,Weapon involved,LAPD
 2018-00156,2018-01-05,18-0015,no,https://beta.documentcloud.org/documents/6961388-Andy-Le-Vo.html,2019-12-18,13,Weapon involved,Long Beach
 2017-09639,2017-12-30,18-0003,no,https://beta.documentcloud.org/documents/6961387-Oscar-Sandoval.html,2020-03-10,11,Weapon involved,LAPD
 2017-09573,2017-12-28,18-0001,no,https://beta.documentcloud.org/documents/6961386-Kaybeen-Razana.html,2020-02-20,7,Weapon involved,South Gate
@@ -147,7 +167,7 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2017-05926,2017-08-10,17-0391,no,https://beta.documentcloud.org/documents/6961398-17-0391.html,2018-11-15,10,Weapon involved,LAPD
 2017-05784,2017-08-04,17-0385,no,https://beta.documentcloud.org/documents/6961397-17-0385.html,2018-10-31,9,Weapon involved,LAPD
 2017-05574,2017-07-27,17-0377,no,https://beta.documentcloud.org/documents/6961396-17-0377.html,2018-09-14,9,Weapon involved,LAPD
-2017-05267,2017-07-15,,unresolved,,,,pending,
+2017-05267,2017-07-15,17-0352,no,https://www.documentcloud.org/documents/21069612-gerber-dieguez,2021-08-25,,Weapon involved,LAPD
 2017-04812,2017-06-29,17-0336,no,https://beta.documentcloud.org/documents/6961427-Marco-Cardoza.html,2020-02-03,10,Weapon involved,South Pasadena
 2017-04801,2017-06-28,,unresolved,,,,pending,
 2017-04648,2017-06-23,17-0325,no,https://beta.documentcloud.org/documents/20425186-santino-trevino,2020-11-23,,Weapon involved,LAPD
@@ -171,8 +191,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2017-00828,2017-01-27,17-0054,no,https://beta.documentcloud.org/documents/6961899-Eduardo-Fernandez.html,2017-10-05,11,Weapon involved,Alhambra
 2017-00658,2017-01-22,17-0038,no,https://beta.documentcloud.org/documents/6961898-Jorge-Victor.html,2018-10-01,14,Weapon involved,Long Beach
 2017-00542,2017-01-18,17-0032,no,https://beta.documentcloud.org/documents/6961897-David-Stroughter.html,2017-07-17,7,Weapon involved,El Segundo
-2017-00465,2017-01-15,17-0029,no,https://beta.documentcloud.org/documents/6961896-Eric-Anderson.html,2019-12-30,10,Weapon involved,Azusa
 2017-00452,2017-01-15,17-0028,no,https://beta.documentcloud.org/documents/6961895-Sinuon-Pream.html,2019-03-07,9,Weapon involved,Long Beach
+2017-00465,2017-01-15,17-0029,no,https://beta.documentcloud.org/documents/6961896-Eric-Anderson.html,2019-12-30,10,Weapon involved,Azusa
 2017-00305,2017-01-10,17-0024,no,https://beta.documentcloud.org/documents/6961894-Michael-Rogers.html,2018-10-16,7,Weapon involved,LAPD
 2017-00115,2017-01-04,17-0010,no,https://beta.documentcloud.org/documents/6961893-Ruben-Randolph.html,2018-01-22,7,Weapon involved,Pomona
 2016-09364,2016-12-24,16-0641,no,https://beta.documentcloud.org/documents/6961890-Zhonghua-Li.html,2020-02-27,7,Weapon involved,LASD
@@ -191,8 +211,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2016-07147,2016-10-02,16-0505,no,https://beta.documentcloud.org/documents/6961914-Daniel-Perez.html,2018-10-16,13,Weapon involved,LAPD
 2016-07120,2016-10-01,16-0502,no,https://beta.documentcloud.org/documents/6961912-Carnell-Snell-Jr.html,2019-01-09,18,Weapon involved,LAPD
 2016-06486,2016-09-04,16-0450,no,https://beta.documentcloud.org/documents/6961939-Jose-Romero.html,2017-11-01,6,Weapon involved,Long Beach
-2016-06423,2016-09-01,16-0444,no,https://beta.documentcloud.org/documents/6961937-Joshua-Quintero.html,2018-06-28,10,Weapon involved,LASD
 2016-06421,2016-09-01,16-0446,no,https://beta.documentcloud.org/documents/6961938-Vicente-Gonzalez.html,2019-04-01,10,Weapon involved,Huntington Park
+2016-06423,2016-09-01,16-0444,no,https://beta.documentcloud.org/documents/6961937-Joshua-Quintero.html,2018-06-28,10,Weapon involved,LASD
 2016-06242,2016-08-25,16-0427,no,https://beta.documentcloud.org/documents/6961936-Donta-Taylor.html,2017-08-07,16,Unclear,LASD
 2016-06243,2016-08-25,,missing,,,,pending,
 2016-06083,2016-08-19,16-0417,no,https://beta.documentcloud.org/documents/6961935-Marcelo-Luna.html,2017-10-17,11,Weapon involved,LAPD
@@ -220,8 +240,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2016-01559,2016-02-24,BA473437,yes,https://beta.documentcloud.org/documents/20412707-luke-liu-criminal-complaint,2018-12-18,,pending,LASD
 2016-01441,2016-02-21,,unresolved,,,,pending,
 2016-01440,2016-02-21,,unresolved,,,,pending,
-2016-01283,2016-02-14,16-0063,no,https://beta.documentcloud.org/documents/6961951-Rammy-Jaradat.html,2020-04-15,18,Weapon involved,LAPD
 2016-01261,2016-02-14,16-0064,no,https://beta.documentcloud.org/documents/6961952-Eduardo-Rodriguez.html,2018-06-11,19,No weapon involved,LASD
+2016-01283,2016-02-14,16-0063,no,https://beta.documentcloud.org/documents/6961951-Rammy-Jaradat.html,2020-04-15,18,Weapon involved,LAPD
 2016-01202,2016-02-11,16-0061,no,https://beta.documentcloud.org/documents/6961950-Matthew-Quinn.html,2020-02-04,7,Weapon involved,LASD
 2016-01059,2016-02-06,16-0053,no,https://beta.documentcloud.org/documents/7033825-Jose-Mendez.html,2017-06-12,5,Weapon involved,LAPD
 2016-00501,2016-01-17,16-0024,no,https://beta.documentcloud.org/documents/6961949-Efrain-Herrera-Jr.html,2019-03-13,14,Weapon involved,LAPD
@@ -250,18 +270,18 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2015-05118,2015-07-24,15-0369,no,https://beta.documentcloud.org/documents/6962006-Seth-Raines.html,2017-06-06,6,Weapon involved,LAPD
 2015-04883,2015-07-15,15-0353,no,https://beta.documentcloud.org/documents/6962005-Jason-Davis.html,2016-11-15,6,Weapon involved,LAPD
 2015-04753,2015-07-09,15-0351,no,https://beta.documentcloud.org/documents/6962004-Neil-White.html,2018-01-19,14,Weapon involved,LAPD
-2015-04668,2015-07-06,15-0337,no,https://beta.documentcloud.org/documents/6962002-Jason-Hendley.html,2017-08-24,11,Weapon involved,LAPD
 2015-04657,2015-07-06,15-0338,no,https://beta.documentcloud.org/documents/6962003-John-Berry.html,2016-09-08,9,Weapon involved,LASD
+2015-04668,2015-07-06,15-0337,no,https://beta.documentcloud.org/documents/6962002-Jason-Hendley.html,2017-08-24,11,Weapon involved,LAPD
 2015-04638,2015-07-05,15-0330,no,https://beta.documentcloud.org/documents/6962000-Johnny-Anderson.html,2016-08-11,8,No weapon involved,LASD
-2015-04603,2015-07-03,15-0336,no,https://beta.documentcloud.org/documents/3254607-JSID-Shooting-Memos-2016-0057.html,2016-08-31,6,Weapon involved,West Covina
 2015-04605,2015-07-03,15-0335,no,https://beta.documentcloud.org/documents/6962001-Arturo-Lopez.html,2017-05-08,11,Weapon involved,LASD
+2015-04603,2015-07-03,15-0336,no,https://beta.documentcloud.org/documents/3254607-JSID-Shooting-Memos-2016-0057.html,2016-08-31,6,Weapon involved,West Covina
 2015-04286,2015-06-21,15-0311,no,https://beta.documentcloud.org/documents/6961999-Adrian-Simental.html,2016-06-10,10,No weapon involved,Azusa
 2015-03663,2015-05-27,15-0279,no,https://beta.documentcloud.org/documents/6961998-Feras-Morad.html,2017-08-02,32,No weapon involved,Long Beach
 2015-03160,2015-05-07,15-0240,no,https://beta.documentcloud.org/documents/7013091-Nephie-Arreguin.html,2016-04-06,7,Weapon involved,LASD
 2015-03103,2015-05-06,15-0222,no,https://beta.documentcloud.org/documents/6961996-Brendon-Glenn.html,2018-03-08,88,No weapon involved,LAPD
 2015-03094,2015-05-05,15-0231,no,https://beta.documentcloud.org/documents/6961997-Thong-Ma.html,2016-08-09,5,Weapon involved,LASD
-2015-02825,2015-04-23,15-0201,no,https://beta.documentcloud.org/documents/6961995-Hector-Morejon.html,2016-09-22,17,No weapon involved,Long Beach
 2015-02800,2015-04-23,15-0197,no,https://beta.documentcloud.org/documents/6961994-Andrew-Valadez.html,2016-10-28,9,Weapon involved,LAPD
+2015-02825,2015-04-23,15-0201,no,https://beta.documentcloud.org/documents/6961995-Hector-Morejon.html,2016-09-22,17,No weapon involved,Long Beach
 2015-02751,2015-04-21,15-0192,no,https://beta.documentcloud.org/documents/6961993-Luis-Martinez.html,2016-08-11,5,Weapon involved,LAPD
 2015-02449,2015-04-08,15-0173,no,https://beta.documentcloud.org/documents/6962040-Roberto-Rodriguez.html,2017-08-16,12,Weapon involved,LAPD
 2015-02283,2015-04-01,15-0157,no,https://beta.documentcloud.org/documents/6962039-Robert-Washington.html,2020-04-01,12,Weapon involved,Hawthorne
@@ -281,8 +301,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2014-08072,2014-11-30,14-0722,no,https://beta.documentcloud.org/documents/2756928-0278image0001.html,2015-12-09,8,Weapon involved,LASD
 2014-07947,2014-11-23,14-0719,no,https://beta.documentcloud.org/documents/6962027-Juan-Enriquez.html,2016-03-03,10,Weapon involved,West Covina
 2014-07890,2014-11-21,14-0714,no,https://beta.documentcloud.org/documents/2653459-Carey-Viramontes.html,2015-09-09,7,Weapon involved,Long Beach
-2014-07786,2014-11-16,14-0703,no,https://beta.documentcloud.org/documents/2653440-Eduardo-Bermudez.html,2015-04-16,5,Weapon involved,LASD
 2014-07785,2014-11-16,14-0703,no,https://beta.documentcloud.org/documents/2653440-Eduardo-Bermudez.html,2015-04-16,5,No weapon involved,LASD
+2014-07786,2014-11-16,14-0703,no,https://beta.documentcloud.org/documents/2653440-Eduardo-Bermudez.html,2015-04-16,5,Weapon involved,LASD
 2014-07619,2014-11-09,14-0694,no,https://beta.documentcloud.org/documents/6962026-Jorge-Trejo.html,2016-04-21,5,Weapon involved,LAPD
 2014-07631,2014-11-09,14-0692,no,https://beta.documentcloud.org/documents/2653455-Josue-Fuentes.html,2015-09-02,4,Weapon involved,LAPD
 2014-07558,2014-11-07,14-0693,no,https://beta.documentcloud.org/documents/6962025-William-Spargur.html,2016-04-01,4,Weapon involved,LASD
@@ -291,8 +311,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2014-06803,2014-10-04,14-0643,no,https://beta.documentcloud.org/documents/6962024-Johnny-Martinez.html,2016-07-18,7,Weapon involved,LASD
 2014-06178,2014-09-08,14-0580,no,https://beta.documentcloud.org/documents/2653457-Alphonse-Perkins.html,2015-09-02,4,Weapon involved,LAPD
 2014-05907,2014-08-26,14-0562,no,https://beta.documentcloud.org/documents/6983479-Kerry-Wesson.html,2016-08-01,6,Weapon involved,LASD
-2014-05712,2014-08-18,14-0539,no,https://beta.documentcloud.org/documents/2035756-luther-walker.html,2015-03-04,5,Weapon involved,LASD
 2014-05709,2014-08-18,14-0452,no,https://beta.documentcloud.org/documents/6962022-Andre-Jones.html,2016-01-06,7,Weapon involved,LAPD
+2014-05712,2014-08-18,14-0539,no,https://beta.documentcloud.org/documents/2035756-luther-walker.html,2015-03-04,5,Weapon involved,LASD
 2014-05574,2014-08-12,14-0523,no,https://beta.documentcloud.org/documents/2653465-Gabriel-Lopez-Gonzalez.html,2015-10-26,6,Weapon involved,San Fernando
 2014-05570,2014-08-11,14-0527,no,https://beta.documentcloud.org/documents/6962021-Ezell-Ford.html,2017-01-24,31,No weapon involved,LAPD
 2014-05498,2014-08-09,14-0521,no,https://beta.documentcloud.org/documents/2653431-Alberto-Morales.html,2014-12-11,5,Weapon involved,LASD
@@ -336,8 +356,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2013-07554,2013-11-01,13-0726,no,https://beta.documentcloud.org/documents/1685813-carlos-saenz.html,2014-08-13,4,Weapon involved,LASD
 2013-07486,2013-10-29,13-0732,no,https://beta.documentcloud.org/documents/2274780-quentin-hicks.html,2015-01-06,9,Weapon involved,LASD
 2013-07436,2013-10-27,13-0721,no,https://beta.documentcloud.org/documents/1685775-william-harvey.html,2014-10-08,11,Weapon involved,LASD
-2013-06967,2013-10-06,13-0679,no,https://beta.documentcloud.org/documents/1685797-darrell-atkinson.html,2014-09-24,5,Weapon involved,LASD
 2013-06973,2013-10-06,13-0685,no,https://beta.documentcloud.org/documents/1685780-bruce-graham.html,2014-10-08,4,Weapon involved,LASD
+2013-06967,2013-10-06,13-0679,no,https://beta.documentcloud.org/documents/1685797-darrell-atkinson.html,2014-09-24,5,Weapon involved,LASD
 2013-06728,2013-09-26,13-0660,no,https://beta.documentcloud.org/documents/1685762-john-del-real.html,2014-08-13,6,Weapon involved,Long Beach
 2013-06697,2013-09-25,13-0664,no,https://beta.documentcloud.org/documents/1685784-erick-balint.html,2014-09-30,7,Weapon involved,Long Beach
 2013-06605,2013-09-21,13-0641,no,https://beta.documentcloud.org/documents/1685816-david-ward.html,2014-05-22,3,Weapon involved,Culver City
@@ -351,8 +371,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2013-05076,2013-07-19,13-0502,no,https://beta.documentcloud.org/documents/2074008-13-la-use-of-force-13-0502.html,2014-09-24,4,Weapon involved,LASD
 2013-05017,2013-07-16,13-0495,no,https://beta.documentcloud.org/documents/6962044-Juan-Chavez.html,2017-04-12,6,Weapon involved,LAPD
 2013-04636,2013-06-30,13-0473,no,https://beta.documentcloud.org/documents/2036195-juan-garcia.html,2015-03-20,5,Weapon involved,LAPD
-2013-04555,2013-06-27,13-0465,no,https://beta.documentcloud.org/documents/1685756-deangelo-lopez.html,2014-08-05,4,Weapon involved,LASD
 2013-04556,2013-06-27,13-0462,no,https://beta.documentcloud.org/documents/1686558-eugene-mallory.html,2014-01-08,4,Weapon involved,LASD
+2013-04555,2013-06-27,13-0465,no,https://beta.documentcloud.org/documents/1685756-deangelo-lopez.html,2014-08-05,4,Weapon involved,LASD
 2013-04465,2013-06-22,13-0457,no,https://beta.documentcloud.org/documents/1686281-cesar-mendoza.html,2014-04-01,4,Weapon involved,LASD
 2013-04096,2013-06-07,13-0423,no,https://beta.documentcloud.org/documents/1686294-john-zawahri.html,2014-03-31,,Weapon involved,"Santa Monica College,Santa Monica"
 2013-03953,2013-06-02,13-0391,no,https://beta.documentcloud.org/documents/1686266-ricardo-diaz-zeferino.html,2014-07-02,14,No weapon involved,Gardena
@@ -407,8 +427,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2012-02046,2012-03-24,12-0213,no,https://beta.documentcloud.org/documents/1217545-benjamin-bittner-mar-24-2012.html,2013-08-21,7,Weapon involved,LAPD
 2012-02050,2012-03-24,12-0207,no,https://beta.documentcloud.org/documents/1661999-kendrec-mcdade.html,2012-12-17,8,No weapon involved,Pasadena
 2012-01969,2012-03-21,12-0204,no,https://beta.documentcloud.org/documents/1217562-garmik-kirakosian-mar-21-2012.html,2013-10-02,7,Weapon involved,LAPD
-2012-01628,2012-03-07,12-0171,no,https://beta.documentcloud.org/documents/1217556-arturo-cabrales-mar-7-2012.html,2012-09-18,4,Weapon involved,LASD
 2012-01627,2012-03-07,12-0162,no,https://beta.documentcloud.org/documents/1217521-kenneth-gomez-mar-7-2012.html,2013-01-11,4,Weapon involved,El Monte
+2012-01628,2012-03-07,12-0171,no,https://beta.documentcloud.org/documents/1217556-arturo-cabrales-mar-7-2012.html,2012-09-18,4,Weapon involved,LASD
 2012-01517,2012-03-02,12-0157,no,https://beta.documentcloud.org/documents/1217546-julien-gonzalez-mar-2-2012.html,2013-08-21,3,Weapon involved,LAPD
 2012-01480,2012-03-01,12-0154,no,https://beta.documentcloud.org/documents/1217525-frank-martinez-mar-1-2012.html,2013-02-13,7,No weapon involved,"LAPD,FBI"
 2012-01323,2012-02-23,12-0143,no,https://beta.documentcloud.org/documents/1217532-shonchy-thaopraseuth-feb-23-2012.html,2013-05-07,5,Weapon involved,LAPD
@@ -441,8 +461,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2011-06073,2011-09-15,11-0619,no,https://beta.documentcloud.org/documents/1660408-noel-salinas.html,2012-04-12,4,Weapon involved,Gardena
 2011-06022,2011-09-14,11-0617,no,https://beta.documentcloud.org/documents/1660401-samuel-sein-liaw.html,2012-03-16,4,Weapon involved,Monterey Park
 2011-05880,2011-09-06,11-0601,no,https://beta.documentcloud.org/documents/1217552-antonio-diaz-sept-6-2011.html,2012-11-19,3,Weapon involved,LAPD
-2011-05635,2011-08-26,11-0571,no,https://beta.documentcloud.org/documents/1686554-maurice-shephard.html,2014-02-04,5,Weapon involved,LAPD
 2011-05656,2011-08-26,11-0568,no,https://beta.documentcloud.org/documents/1895859-ismael-lopez.html,2012-08-07,4,Weapon involved,Long Beach
+2011-05635,2011-08-26,11-0571,no,https://beta.documentcloud.org/documents/1686554-maurice-shephard.html,2014-02-04,5,Weapon involved,LAPD
 2011-05527,2011-08-21,11-0548,no,https://beta.documentcloud.org/documents/1660700-pablo-garcia.html,2012-06-21,4,Weapon involved,LASD
 2011-05032,2011-07-30,11-0502,no,https://beta.documentcloud.org/documents/1667273-christopher-moreno.html,2012-07-11,5,Weapon involved,LAPD
 2011-04867,2011-07-22,11-0501,no,https://beta.documentcloud.org/documents/1661172-maria-carmen-ruvalcaba.html,2012-08-20,3,Weapon involved,LAPD
@@ -453,12 +473,12 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2011-04291,2011-06-27,11-0439,no,https://beta.documentcloud.org/documents/1660400-martin-tadeo-osuna.html,2012-03-29,5,Weapon involved,South Gate
 2011-04226,2011-06-23,11-0434,no,https://beta.documentcloud.org/documents/1660393-william-lazaro-quiros.html,2012-02-29,4,No weapon involved,LASD
 2011-04213,2011-06-22,11-0433,no,https://beta.documentcloud.org/documents/2653456-Mario-Vanegas.html,2015-09-02,8,Weapon involved,LAPD
-2011-03574,2011-05-25,11-0367,no,https://beta.documentcloud.org/documents/1659733-christopher-coronel.html,2011-12-08,5,Weapon involved,South Gate
 2011-03575,2011-05-25,11-0376,no,https://beta.documentcloud.org/documents/1660391-william-lusk.html,2012-02-27,3,No weapon involved,LASD
+2011-03574,2011-05-25,11-0367,no,https://beta.documentcloud.org/documents/1659733-christopher-coronel.html,2011-12-08,5,Weapon involved,South Gate
 2011-03259,2011-05-10,11-0368,no,https://beta.documentcloud.org/documents/1217554-dale-garrett-may-10-2011.html,2012-12-05,6,Weapon involved,LAPD
 2011-03239,2011-05-09,11-0335,no,https://beta.documentcloud.org/documents/1667295-hector-hernandez.html,2012-05-10,4,No weapon involved,LAPD
-2011-02950,2011-04-27,11-0302,no,https://beta.documentcloud.org/documents/2300600-jose-solorio.html,2013-01-11,5,Weapon involved,LAPD
 2011-02966,2011-04-27,11-0303,no,https://beta.documentcloud.org/documents/1667277-brenda-williams.html,2012-07-25,4,Weapon involved,LAPD
+2011-02950,2011-04-27,11-0302,no,https://beta.documentcloud.org/documents/2300600-jose-solorio.html,2013-01-11,5,Weapon involved,LAPD
 2011-02879,2011-04-24,11-0307,no,https://beta.documentcloud.org/documents/1660407-edgar-battad.html,2012-03-28,5,Weapon involved,Monterey Park
 2011-02633,2011-04-13,11-0277,no,https://beta.documentcloud.org/documents/1217560-frank-johnson-apr-13-2011.html,2013-10-09,4,Weapon involved,Santa Monica
 2011-02513,2011-04-08,11-0287,no,https://beta.documentcloud.org/documents/1659711-jose-david-monteon-jr.html,2011-10-19,5,Weapon involved,LASD
@@ -508,8 +528,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2010-02849,2010-04-25,10-0338,no,https://beta.documentcloud.org/documents/1503137-lejoy-grissom.html,2010-10-29,8,No weapon involved,Culver City
 2010-02789,2010-04-22,10-0309,no,https://beta.documentcloud.org/documents/1503143-julio-garcia-corletto.html,2010-10-05,5,Weapon involved,Maywood
 2010-02179,2010-03-27,10-0249,no,https://beta.documentcloud.org/documents/1503138-mario-jaramillo.html,2010-10-23,4,Weapon involved,Inglewood
-2010-02012,2010-03-20,10-0234,no,https://beta.documentcloud.org/documents/1503141-stephen-bours.html,2010-10-18,5,Weapon involved,Downey
 2010-01991,2010-03-20,10-0233,no,https://beta.documentcloud.org/documents/1659703-steven-eugene-washington.html,2011-10-04,4,No weapon involved,LAPD
+2010-02012,2010-03-20,10-0234,no,https://beta.documentcloud.org/documents/1503141-stephen-bours.html,2010-10-18,5,Weapon involved,Downey
 2010-01971,2010-03-19,10-0218,no,https://beta.documentcloud.org/documents/1510390-albert-alan-valencia.html,2011-07-07,6,No weapon involved,Downey
 2010-01942,2010-03-18,10-0214,no,https://beta.documentcloud.org/documents/1507158-isaac-jeremy-ornelas.html,2011-06-30,4,Weapon involved,LAPD
 2010-01399,2010-02-25,10-0141,no,https://beta.documentcloud.org/documents/1506565-brain-macias.html,2011-03-21,6,Weapon involved,LAPD
@@ -523,8 +543,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2009-07071,2009-10-17,09-0668,no,https://beta.documentcloud.org/documents/1510391-jack-fulchiero.html,2011-01-20,3,Weapon involved,LAPD
 2009-06699,2009-10-02,09-0626,no,https://beta.documentcloud.org/documents/1659743-efrain-lara.html,2010-08-30,4,Weapon involved,LASD
 2009-06507,2009-09-22,09-0598,no,https://beta.documentcloud.org/documents/1681276-noe-rene-escobar.html,2010-03-02,4,Weapon involved,Pomona
-2009-06455,2009-09-20,09-0586,no,https://beta.documentcloud.org/documents/2272661-felipe-valdovinos.html,2010-05-24,5,Weapon involved,LASD
 2009-06459,2009-09-20,09-0587,no,https://beta.documentcloud.org/documents/2272664-leopoldo-huizar.html,2010-05-10,3,Weapon involved,LASD
+2009-06455,2009-09-20,09-0586,no,https://beta.documentcloud.org/documents/2272661-felipe-valdovinos.html,2010-05-24,5,Weapon involved,LASD
 2009-06449,2009-09-19,09-0584,no,https://beta.documentcloud.org/documents/2272669-travion-richards.html,2010-05-04,3,Weapon involved,LASD
 2009-06366,2009-09-14,09-0577,no,https://beta.documentcloud.org/documents/1681281-darrick-collins.html,2010-03-12,3,No weapon involved,LASD
 2009-06160,2009-09-06,09-0535,no,https://beta.documentcloud.org/documents/1510388-robert-brown.html,2011-07-28,3,Weapon involved,LAPD
@@ -579,8 +599,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2008-03718,2008-05-20,08-0302,no,https://beta.documentcloud.org/documents/1672346-frank-alejo.html,2009-10-26,5,Weapon involved,LAPD
 2008-03639,2008-05-17,08-0298,no,https://beta.documentcloud.org/documents/1672043-roketi-mosesue.html,2009-08-11,19,Weapon involved,Long Beach
 2008-03637,2008-05-17,08-0297,no,https://beta.documentcloud.org/documents/1506560-carlos-rivera.html,2011-02-28,3,Weapon involved,LAPD
-2008-03548,2008-05-13,08-0286,no,https://beta.documentcloud.org/documents/1685742-glenn-patrick-rose.html,2008-12-02,4,Weapon involved,"LASD,CHP"
 2008-03545,2008-05-13,08-0285,no,https://beta.documentcloud.org/documents/1671602-samuel-taijin-om.html,2009-04-29,4,Weapon involved,CHP
+2008-03548,2008-05-13,08-0286,no,https://beta.documentcloud.org/documents/1685742-glenn-patrick-rose.html,2008-12-02,4,Weapon involved,"LASD,CHP"
 2008-03503,2008-05-11,08-0284,no,https://beta.documentcloud.org/documents/2272663-michael-byoune.html,2010-05-19,16,No weapon involved,Inglewood
 2008-03343,2008-05-02,08-0273,no,https://beta.documentcloud.org/documents/1669913-marco-gomez.html,2009-07-16,4,Weapon involved,LAPD
 2008-02999,2008-04-19,08-0250,no,https://beta.documentcloud.org/documents/1667936-richard-nathan-dale.html,2009-12-14,5,Weapon involved,Torrance
@@ -617,8 +637,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2007-05337,2007-07-24,07-0455,no,https://beta.documentcloud.org/documents/2429745-mark-gregg.html,2008-10-10,3,Weapon involved,LAPD
 2007-05282,2007-07-22,07-0454,no,https://beta.documentcloud.org/documents/1672638-deshawn-trenton-adams.html,2009-03-25,3,Weapon involved,Gardena
 2007-05205,2007-07-19,07-0451,no,https://beta.documentcloud.org/documents/2272569-victor-g.html,2008-12-08,3,Weapon involved,LAPD
-2007-05101,2007-07-14,07-0447,no,https://beta.documentcloud.org/documents/1684446-shaun-mccoy.html,2008-06-24,7,Weapon involved,Torrance
 2007-05102,2007-07-14,07-0447,no,https://beta.documentcloud.org/documents/1684446-shaun-mccoy.html,2008-06-24,7,Weapon involved,Torrance
+2007-05101,2007-07-14,07-0447,no,https://beta.documentcloud.org/documents/1684446-shaun-mccoy.html,2008-06-24,7,Weapon involved,Torrance
 2007-04815,2007-07-02,07-0417,no,https://beta.documentcloud.org/documents/1684449-william-john-vasquez.html,2008-06-23,4,Weapon involved,Torrance
 2007-04660,2007-06-26,07-0403,no,https://beta.documentcloud.org/documents/2272571-aaron-borden.html,2008-09-08,5,Weapon involved,LAPD
 2007-04351,2007-06-13,07-0370,no,https://beta.documentcloud.org/documents/1684451-detrick-ford.html,2008-06-18,7,Weapon involved,LAPD
@@ -641,8 +661,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2007-02010,2007-03-13,07-0163,no,https://beta.documentcloud.org/documents/2300336-david-weisman.html,2007-09-18,4,Weapon involved,LAPD
 2007-01755,2007-03-04,07-0137,no,https://beta.documentcloud.org/documents/2272576-antonio-bland.html,2008-01-22,6,Weapon involved,LAPD
 2007-01570,2007-02-24,07-0128,no,https://beta.documentcloud.org/documents/1671761-marcellus-charles-wright.html,2007-12-04,3,Weapon involved,LAPD
-2007-01198,2007-02-11,07-0102,no,https://beta.documentcloud.org/documents/1671744-jose-ramirez-millan.html,2007-11-26,5,Weapon involved,CHP
 2007-01199,2007-02-11,07-0106,no,https://beta.documentcloud.org/documents/1675374-francisco-mondragon.html,2008-02-13,4,Weapon involved,LAPD
+2007-01198,2007-02-11,07-0102,no,https://beta.documentcloud.org/documents/1671744-jose-ramirez-millan.html,2007-11-26,5,Weapon involved,CHP
 2007-01146,2007-02-08,07-0098,no,https://beta.documentcloud.org/documents/1671749-carlos-hernandez.html,2007-11-12,4,Weapon involved,South Gate
 2007-00616,2007-01-22,07-0058,no,https://beta.documentcloud.org/documents/1671759-matthew-jerome-powell.html,2007-12-04,5,Weapon involved,LAPD
 2007-00290,2007-01-10,07-0030,no,https://beta.documentcloud.org/documents/1671743-phillip-miller.html,2007-11-26,6,Weapon involved,LAPD
@@ -702,8 +722,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2005-05440,2005-07-19,05-0435,no,https://beta.documentcloud.org/documents/2643252-Louis-Flores.html,2006-06-05,4,Weapon involved,LAPD
 2005-05311,2005-07-15,05-0430,no,https://beta.documentcloud.org/documents/2643245-Jorge-Marquez.html,2006-01-23,5,No weapon involved,Bell Gardens
 2005-05267,2005-07-14,05-0426,no,https://beta.documentcloud.org/documents/2643244-Daniel-Barragan.html,2006-09-26,4,Weapon involved,LAPD
-2005-05181,2005-07-10,05-0410,no,https://beta.documentcloud.org/documents/2643250-Jose-Raul-Lemus-Pena.html,2006-11-27,10,No weapon involved,LAPD
 2005-05179,2005-07-10,05-0410,no,https://beta.documentcloud.org/documents/2643250-Jose-Raul-Lemus-Pena.html,2006-11-27,10,Weapon involved,LAPD
+2005-05181,2005-07-10,05-0410,no,https://beta.documentcloud.org/documents/2643250-Jose-Raul-Lemus-Pena.html,2006-11-27,10,No weapon involved,LAPD
 2005-05110,2005-07-07,05-0408,no,https://beta.documentcloud.org/documents/2643251-Johnny-Padilla.html,2006-04-19,5,Weapon involved,LASD
 2005-04912,2005-06-29,05-0388,no,https://beta.documentcloud.org/documents/2645701-Bruce-Smith.html,2005-12-20,3,Weapon involved,LASD
 2005-04898,2005-06-29,05-0387,no,https://beta.documentcloud.org/documents/2645697-Lazaro-Leyva.html,2006-01-17,4,Weapon involved,LASD
@@ -721,9 +741,9 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2005-01060,2005-02-06,05-0088,no,https://beta.documentcloud.org/documents/2645669-Deven-B.html,2005-12-05,9,Weapon involved,LAPD
 2005-01035,2005-02-04,,missing,,,,pending,
 2005-00886,2005-01-30,05-0068,no,https://beta.documentcloud.org/documents/2645630-Marvin-Vasquez.html,2005-08-24,3,Weapon involved,LASD
-2005-00730,2005-01-24,05-0050,no,https://beta.documentcloud.org/documents/2645623-Cameron-Terrell-Williams.html,2005-12-02,2,Weapon involved,LAPD
 2005-00708,2005-01-24,05-0048,no,https://beta.documentcloud.org/documents/2645622-Kazi-Shinda-Bell.html,2005-08-26,3,Weapon involved,LASD
 2005-00739,2005-01-24,05-0055,no,https://beta.documentcloud.org/documents/2645633-Robert-Navarrette.html,2005-12-20,5,Weapon involved,LAPD
+2005-00730,2005-01-24,05-0050,no,https://beta.documentcloud.org/documents/2645623-Cameron-Terrell-Williams.html,2005-12-02,2,Weapon involved,LAPD
 2005-00684,2005-01-23,05-0051,no,https://beta.documentcloud.org/documents/2645625-Maynard-King.html,2005-09-20,3,Weapon involved,LASD
 2005-00115,2005-01-04,05-0010,no,https://beta.documentcloud.org/documents/2645618-Cruz-Rivera.html,2005-08-11,3,Weapon involved,LASD
 2004-09768,2004-12-24,04-0958,no,https://beta.documentcloud.org/documents/2639992-Troy-Lund.html,2005-12-12,4,Weapon involved,LAPD
@@ -738,8 +758,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2004-07383,2004-09-29,04-0790,no,https://beta.documentcloud.org/documents/2630326-maribel-hernandez.html,2005-07-30,4,Weapon involved,Montebello
 2004-06802,2004-09-08,04-0746,no,https://beta.documentcloud.org/documents/2630678-kenny-gomez.html,2005-06-23,6,Weapon involved,Pomona
 2004-06407,2004-08-24,04-0708,no,https://beta.documentcloud.org/documents/2638767-David-Perez.html,2005-09-21,3,Unclear,LASD
-2004-06272,2004-08-19,04-0698,no,https://beta.documentcloud.org/documents/2638623-Dorian-Flores.html,2005-07-15,4,Weapon involved,LASD
 2004-06276,2004-08-19,04-0699,no,https://beta.documentcloud.org/documents/2638770-Jose-Luis-Gomez.html,2005-05-11,5,Weapon involved,Torrance
+2004-06272,2004-08-19,04-0698,no,https://beta.documentcloud.org/documents/2638623-Dorian-Flores.html,2005-07-15,4,Weapon involved,LASD
 2004-06140,2004-08-13,04-0679,no,https://beta.documentcloud.org/documents/2638804-Gerardo-Macias.html,2004-12-16,3,Weapon involved,LASD
 2004-05611,2004-07-25,04-0628,no,https://beta.documentcloud.org/documents/2638521-Michael-Dale-Anderson.html,2005-04-29,8,No weapon involved,Maywood
 2004-05488,2004-07-20,04-0616,no,https://beta.documentcloud.org/documents/2638514-David-Viera.html,2005-06-15,8,No weapon involved,El Monte
@@ -753,8 +773,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2004-04278,2004-06-03,04-0518,no,https://beta.documentcloud.org/documents/2630338-pietro-salvatore-giammona.html,2005-07-18,2,No weapon involved,Long Beach
 2004-04036,2004-05-26,04-0501,no,https://beta.documentcloud.org/documents/2519508-alonso-torres.html,2005-03-15,7,Weapon involved,LAPD
 2004-03892,2004-05-20,04-0478,no,https://beta.documentcloud.org/documents/2519479-peter-thoma.html,2004-09-30,3,Weapon involved,Arcadia
-2004-03495,2004-05-05,04-0406,no,https://beta.documentcloud.org/documents/2519483-dwight-la-vincent-slater.html,2005-01-18,5,Weapon involved,LASD
 2004-03487,2004-05-05,04-0407,no,https://beta.documentcloud.org/documents/2519484-luis-fabian-delgado.html,2004-08-31,3,Weapon involved,LASD
+2004-03495,2004-05-05,04-0406,no,https://beta.documentcloud.org/documents/2519483-dwight-la-vincent-slater.html,2005-01-18,5,Weapon involved,LASD
 2004-03217,2004-04-24,,missing,,,,pending,
 2004-03171,2004-04-23,04-0370,no,https://beta.documentcloud.org/documents/2638586-Cephas-Hendricks.html,2005-04-15,4,Weapon involved,LASD
 2004-03020,2004-04-17,04-0338,no,https://beta.documentcloud.org/documents/2638563-Larry-Romero.html,2004-11-22,6,Weapon involved,Hawthorne
@@ -765,8 +785,8 @@ coroners_case_number,death_date,jsid_file_number,decision,file_url,review_releas
 2004-01517,2004-02-21,04-0157,no,https://beta.documentcloud.org/documents/2519463-rigoberto-vaca.html,2005-05-19,4,Unclear,LAPD
 2004-00974,2004-02-03,04-0105,no,https://beta.documentcloud.org/documents/2519473-eric-lamont-wilson.html,2004-08-31,3,Weapon involved,LASD
 2004-00913,2004-01-31,04-0102,no,https://beta.documentcloud.org/documents/2519472-robert-michael-robbins.html,2004-08-06,7,Weapon involved,Inglewood
-2004-00693,2004-01-23,04-0075,no,https://beta.documentcloud.org/documents/7013094-Javier-Beas.html,2004-08-04,,Weapon involved,Pomona
 2004-00674,2004-01-23,04-0074,no,https://beta.documentcloud.org/documents/2516797-jack-sui.html,2004-09-07,5,Weapon involved,Long Beach
+2004-00693,2004-01-23,04-0075,no,https://beta.documentcloud.org/documents/7013094-Javier-Beas.html,2004-08-04,,Weapon involved,Pomona
 2004-00527,2004-01-18,04-0057,no,https://beta.documentcloud.org/documents/2516804-richard-sao.html,2005-06-07,6,Weapon involved,LAPD
 2004-00503,2004-01-17,04-0056,no,https://beta.documentcloud.org/documents/2516802-theo-paul-williams.html,2004-08-17,3,Weapon involved,Long Beach
 2004-00220,2004-01-07,04-0028,no,https://beta.documentcloud.org/documents/2516798-matthew-ryan-bickel.html,2005-07-08,4,Weapon involved,Torrance
