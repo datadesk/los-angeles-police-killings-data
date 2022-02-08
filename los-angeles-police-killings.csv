@@ -1,4 +1,5 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2022-00783,hector-armando-barba,2022-01-18,Hector,Armando,Barba,33,latino,male,gunshot,6444 Santa Fe Ave.,Huntington Park,-118.229848383542,33.9806895958252
 2021-14101,enrique-ruiz,2021-12-26,Enrique,,Ruiz,33,latino,male,gunshot,2960 W. Broadway,Eagle Rock,-118.228665783542,34.1452524958103
 2021-13994,valentina-orellana-peralta,2021-12-23,Valentina,,Orellana-Peralta,14,latino,female,gunshot,12121 Victory Blvd.,North Hollywood,-118.397506083519,34.1875941958066
 2021-13992,daniel-abisai-elena-lopez,2021-12-23,Daniel,Abisai,Elena Lopez,24,latino,male,gunshot,12121 Victory Blvd.,North Hollywood,-118.397506083519,34.1875941958066
@@ -12,6 +13,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2021-12049,melkon-michaelidis,2021-10-31,Melkon,,Michaelidis,46,white,male,gunshot,13802 Victory Blvd.,Valley Glen,-118.433537883514,34.1863387958067
 2021-11425,carlos-alexander-arias,2021-10-13,Carlos,Alexander,Arias,36,white,male,gunshot,3676 Keystone Ave.,Palms,-118.407775583518,34.0220760958214
 2021-11330,isaiah-raider-guevara,2021-10-10,Isaiah,Raider,Guevara,18,latino,male,gunshot,10032 Obregon St.,West Whittier-Los Nietos,-118.068714283565,33.9995660958235
+2021-11266,rudy-mondell-anderson,2021-10-08,Rudy,Mondell,Anderson,45,black,male,gunshot,560 S. Main St.,Downtown,-118.24960148354,34.0452197958193
 2021-11139,jesse-medrano,2021-10-05,Jesse,,Medrano,35,latino,male,gunshot,W/B 105 Freeway & 710 Freeway interchange,Paramount,-118.172915827736,33.9115290316046
 2021-11090,christopher-lee-mosco,2021-10-03,Christopher,Lee,Mosco,32,white,male,gunshot,24915 Chicory Court,Unincorporated Santa Susana Mountains,-118.570283283495,34.3724046957901
 2021-10903,leonel-chavez,2021-09-28,Leonel,,Chavez,24,latino,male,gunshot,Medford & North Indiana streets,Boyle Heights,-118.192645883547,34.0617584958178
