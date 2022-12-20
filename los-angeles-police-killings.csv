@@ -1,4 +1,6 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2022-11939,thomas-phan,2022-11-16,Thomas,,Phan,40,asian,male,,Island Rd And Bridgeport Ln,,,
+2022-11468,ramiro-lozano,2022-11-03,Ramiro,,Lozano,46,latino,male,,230 Towne Ctr. Dr.,,,
 2022-11336,william-salgado,2022-10-30,William,,Salgado,30,latino,male,,6315 Malabar St,,,
 2022-10722,jason-burton-sanderson,2022-10-11,Jason,Burton,Sanderson,41,white,male,,530 Quay Ave,,,
 2022-09899,luis-herrera,2022-09-17,Luis,,Herrera,19,latino,male,,400 West 102Nd Street,,,
@@ -9,6 +11,7 @@ coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,add
 2022-08588,cristian-alexis-arriola-gomez,2022-08-17,Cristian,Alexis,Arriola Gomez,24,latino,male,,E/Of Andasol Ave. S/Of Sherman Way,,,
 2022-07806,marcos-antonio-maldonado-lopez,2022-07-27,Marcos,Antonio,Maldonado Lopez,26,latino,male,,North Broadway // South Avenue 19,,,
 2022-07771,lino-soltero,2022-07-22,Lino,,Soltero,39,latino,male,,Lansdowne Ave. // Drucker St.,,,
+2022-07135,jaime-fernando-rodriguez,2022-07-09,Jaime,Fernando,Rodriguez,42,latino,male,,1084 East 17Th Street,,,
 2022-07075,felipe-de-jesus-guerrero,2022-07-07,Felipe,De Jesus,Guerrero,36,latino,male,,Pico Blvd Between Sawtelle Blvd  And Cotner Avenue,,,
 2022-06967,reginald-keith-humphrey,2022-07-05,Reginald,Keith,Humphrey,31,black,male,,948 Ronan Avenue,,,
 2022-06860,rodolfo-jesus-torres,2022-07-02,Rodolfo,Jesus,Torres,30,latino,male,,Maple Ave. // E. 36Th St.,,,
