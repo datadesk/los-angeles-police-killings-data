@@ -1,4 +1,6 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2022-13322,fernando-fierro,2022-12-21,Fernando,,Fierro,44,latino,male,,2545 East Avenue I #111,,,
+2022-13173,guillermo-de-jesus-medina,2022-12-18,Guillermo,De Jesus,Medina,39,latino,male,,3846 Cardiff Ave,,,
 2022-11939,thomas-phan,2022-11-16,Thomas,,Phan,40,asian,male,,Island Rd And Bridgeport Ln,,,
 2022-11468,ramiro-lozano,2022-11-03,Ramiro,,Lozano,46,latino,male,,230 Towne Ctr. Dr.,,,
 2022-11336,william-salgado,2022-10-30,William,,Salgado,30,latino,male,,6315 Malabar St,,,
