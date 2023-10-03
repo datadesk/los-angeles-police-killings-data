@@ -1,4 +1,6 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2023-11351,angel-ledesma,2023-08-27,Angel,,Ledesma,24,latino,male,,18425 Malden Street,,,
+2023-10218,arturo-cernas,2023-08-07,Arturo,,Cernas,34,latino,male,,,,,
 2023-09465,meyvic-arreola,2023-07-25,Meyvic,,Arreola,44,latino,male,,7616 Reseda Boulevard,,,
 2023-09202,billy-anthony-stribling,2023-07-20,Billy,Anthony,Stribling,56,black,male,,"1000 East 7Th Street Apt #603, Los Angeles, California 90014     County Los Angeles",,,
 2023-08466,jessica-denise-brown,2023-07-09,Jessica,Denise,Brown,35,black,female,,"18515 Burbank Boulevard, Tarzana, California 91356     County Los Angeles",,,
