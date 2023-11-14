@@ -1,4 +1,7 @@
 coroners_case_number,slug,death_date,first,middle,last,age,race,gender,cause,address,neighborhood,x,y
+2023-12789,ivan-solis-mora,2023-09-21,Ivan,,Solis Mora,34,latino,male,,10024 South Grevillea Avenue,,,
+2023-12322,carlos-de-anda,2023-09-13,Carlos,,De Anda,35,latino,male,,1235 South New Hampshire Avenue,,,
+2023-11771,robert-boozer,2023-09-04,Robert,,Boozer,42,white,male,,16751 Dawn Haven Road,,,
 2023-11351,angel-ledesma,2023-08-27,Angel,,Ledesma,24,latino,male,,18425 Malden Street,,,
 2023-10218,arturo-cernas,2023-08-07,Arturo,,Cernas,34,latino,male,,,,,
 2023-09465,meyvic-arreola,2023-07-25,Meyvic,,Arreola,44,latino,male,,7616 Reseda Boulevard,,,
